@@ -12,3 +12,10 @@ Bucle basico para enviar mensajes spam a un bot de telegram, perfecto para cuand
 
 ### Y lo ejecutamos
 ``` python Molestar.py ```
+
+<hr>
+
+### No olvides agregar los tokens, tu mensaje y la cantidad de envios !
+![image](https://github.com/francoagustinperez/Molestar.py/assets/108749398/80818f8d-ce1d-453f-825d-014c70a19b2a)
+
+<hr>
